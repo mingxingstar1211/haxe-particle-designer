@@ -1,0 +1,1 @@
+Import and display particle systems created by Particle Designer (or other Cocos2d particle engines) inside of HAXE NME.
